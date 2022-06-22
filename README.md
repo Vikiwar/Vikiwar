@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vikiwar
-- 👀 I’m interested in web developing 
-- 🌱 I’m currently learning  fornt end developing
-- 💞️ I’m looking to collaborate on front end developing
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning  fornt end development
+- 💞️ I’m looking to collaborate on front end development
 - 📫 How to reach me vigneshwar621998@gmail.com
 
 <!---
